@@ -1,15 +1,28 @@
-# Projetos Pessoais
+# 🚀 Projetos Pessoais
 
-Este repositório contém códigos pessoais desenvolvidos para **estudo** e **treinamento**.  
-
-Os projetos aqui são exercícios práticos feitos para aprendizado e aprimoramento das minhas habilidades.  
-
-> **Aviso:** Estes códigos são para uso próprio e estudo.  
-> Não são projetos finais ou destinados à produção.  
-
-Sinta-se à vontade para visualizar e aprender com os exemplos,  
-mas não há garantia de qualidade ou suporte.  
+Bem-vindo(a) ao meu repositório de códigos para **estudo** e **treinamento**! 🎯
 
 ---
 
-**Feito para evoluir!**
+## 📚 Sobre
+
+Este repositório reúne projetos e exercícios pessoais, feitos com o objetivo de aprimorar minhas habilidades de programação e aprendizado. 💻✨
+
+---
+
+## ⚠️ Aviso
+
+Estes códigos são para **uso próprio e estudo**, não são projetos finais nem prontos para produção.  
+Use como referência ou inspiração, mas não há garantia de qualidade ou suporte. 🙌
+
+---
+
+## 👀 Sinta-se à vontade para:
+
+- 📖 Visualizar o código  
+- 🤓 Aprender com os exemplos  
+- 💡 Adaptar para seus próprios estudos
+
+---
+
+**Feito para evoluir! 🚀🔥**
