@@ -17,7 +17,7 @@ O jogo conta com efeitos visuais usando a biblioteca `colorama` e uma barra de c
 
 ## 🛠️ Tecnologias usadas
 
-- Python 3 🐍
+- [Python](https://www.python.org/) 🐍
 - [colorama](https://pypi.org/project/colorama/) – para colorir o terminal
 
 ---
