@@ -2,6 +2,12 @@
 
 > Um exemplo simples de barra de navegação utilizando apenas HTML e CSS, com ícones em SVG.
 
-[![Navbar Exemplo 1](./assets/thumb-navbar.png)](https://streamable.com/zfe10f)
+<a href="https://streamable.com/zfe10f" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/thumb-navbar.png" alt="Navbar Exemplo 1" />
+</a>
 
-[**Clique na imagem para visualizar um vídeo prévia**](https://streamable.com/zfe10f)
+<br />
+
+<a href="https://streamable.com/zfe10f" target="_blank" rel="noopener noreferrer">
+  <strong>Clique na imagem para visualizar um vídeo prévia</strong>
+</a>
