@@ -1,5 +1,5 @@
 ### 🧪 Exemplo 1: Navbar com HTML e CSS
 
-> Um exemplo simples de barra de navegação  utilizando apenas HTML e CSS, com ícones em SVG.
+> Um exemplo simples de barra de navegação utilizando apenas HTML e CSS, com ícones em SVG.
 
-![Navbar Exemplo 1](./assets/exemplo.gif)
+<video src="./assets/exemplo.mp4" controls autoplay loop muted width="500"></video>
